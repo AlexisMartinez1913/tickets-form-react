@@ -1,0 +1,23 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "title": "Update dropdown",
+      "priority": 1,
+      "description": "As a starMeUp user"
+    },
+    {
+      "id": "2",
+      "title": "Ticket Template",
+      "priority": 1,
+      "description": "This a ticket template"
+    },
+    {
+      "id": "9df7",
+      "title": "i want one bag",
+      "priority": "1",
+      "description": "i want one bag",
+      "resolved": false
+    }
+  ]
+}
