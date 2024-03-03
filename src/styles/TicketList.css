@@ -1,0 +1,32 @@
+
+
+h3 {
+    text-align: center;
+}
+.table-container {
+    margin-top: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.table-container table {
+    width: 80%;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.table-container th,
+.table-container td {
+    padding: 8px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+.table-container th {
+    background-color: #f2f2f2;
+}
+
+.table-container tr:nth-child(even) {
+    background-color: #f2f2f2;
+}

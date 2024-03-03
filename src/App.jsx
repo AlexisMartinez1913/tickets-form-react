@@ -1,13 +1,16 @@
 import { useState } from 'react'
 import { FormTicket } from './components/FormTicket'
+import { TicketList } from './components/TicketList'
 
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
-      <FormTicket></FormTicket>
+      <FormTicket />
+      <TicketList />
+      
+
     </>
   )
 }
